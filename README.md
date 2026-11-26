@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Neeraj!
+# 👋 Hi, I'm Aryan!
 
-I am a passionate developer focused on **DevOps & Full-Stack Engineering**. Welcome to my GitHub profile!
+I am a passionate Student focused on **DevOps & Full-Stack Engineering**. Welcome to my GitHub profile!
 
 ---
 
@@ -37,6 +37,6 @@ I am a passionate developer focused on **DevOps & Full-Stack Engineering**. Welc
 ---
 
 ### 📊 GitHub Stats
-![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeerajBurre&show_icons=true&theme=dark)
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeerajBurre&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajBurre&layout=compact&theme=dark)
